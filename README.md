@@ -29,16 +29,6 @@ This project implements a **Convolutional Neural Network (CNN)** using **TensorF
 
 ---
 
-## 🔥 Quick Start  
-
-Clone this repository and install dependencies: 
-
-```bash
-git clone https://github.com/your-username/handwritten-digit-classification.git
-cd handwritten-digit-classification
-pip install -r requirements.txt
-```
-
 ## 📊 Results & Performance
 - Achieved 95% accuracy on handwritten digit classification.
 - Optimized model with Batch Normalization and MaxPooling for better generalization.
