@@ -69,3 +69,10 @@ model = tf.keras.models.load_model("malaria_cnn.h5")
 - Hyperparameter tuning for further optimization.
 - Experiment with different architectures (e.g., deeper CNNs, ResNet).
 - Deploy the model using Flask, FastAPI, or TensorFlow Serving.
+
+## Reference material
+- [Link 1](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,4,4,4,4&seed=0.18718&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Link 2](https://poloclub.github.io/cnn-explainer/)
+- [Link 3](https://medium.com/@saivenkat_/all-you-need-to-know-about-cnn-visual-explained-convolutional-neural-networks-d7041cf5e919)
+- [Link 4](https://setosa.io/ev/image-kernels/)
+- [Link 5](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
